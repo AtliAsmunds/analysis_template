@@ -8,6 +8,7 @@ dependencies = []
 
 [dependency-groups]
 analysis = [
+    "dotenv>=0.9.9",
     "ipykernel>=7.1.0",
     "pandas>=3.0.0",
     "plotly>=6.5.2",
