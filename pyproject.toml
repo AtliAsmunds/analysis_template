@@ -10,6 +10,7 @@ dependencies = []
 analysis = [
     "dotenv>=0.9.9",
     "ipykernel>=7.1.0",
+    "openpyxl>=3.1.5",
     "pandas>=3.0.0",
     "plotly>=6.5.2",
     "polars>=1.37.1",
